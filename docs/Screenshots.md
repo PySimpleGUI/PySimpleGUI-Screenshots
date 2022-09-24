@@ -1,3 +1,8 @@
+[@PySimpleGUI](https://github.com/PySimpleGUI) 2022-09-24T15:11:30Z
+
+![POS_System_Screenshot](https://user-images.githubusercontent.com/46163555/192105397-9e4de289-d4ba-4f12-aa18-9af49fdfd33d.gif)
+
+-----------
 [@PySimpleGUI](https://github.com/PySimpleGUI) 2022-09-20T16:21:44Z
 
 ![image](https://user-images.githubusercontent.com/46163555/191312003-b2ee847c-fb5a-46d0-8a35-1488af79edac.png)
