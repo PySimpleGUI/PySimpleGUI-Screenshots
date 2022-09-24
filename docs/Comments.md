@@ -1,3 +1,11 @@
+[@PySimpleGUI](https://github.com/PySimpleGUI) 2022-09-24T15:34:14Z
+
+@physcofury why didn't you pick something a little more ambitious for your first project?  A multi-window point of sale system with an onscreen keyboard?  That's really incredible actually!  
+![image](https://user-images.githubusercontent.com/46163555/192106358-9cbcb976-7f56-4470-99e5-cba848095507.png)
+
+7 months since **_starting_** to learn Python?  Wow.... fast learner!  
+
+------------------------------
 [@PySimpleGUI](https://github.com/PySimpleGUI) 2022-09-24T15:11:30Z
 
 Here is the MP4 converted to GIF for the screenshot that @physcofury posted.  GIF is required for the screenshot to appear in the screenshots tab of the docs.
