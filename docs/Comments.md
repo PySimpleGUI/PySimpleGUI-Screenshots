@@ -1,3 +1,11 @@
+[@PySimpleGUI](https://github.com/PySimpleGUI) 2022-09-24T15:11:30Z
+
+Here is the MP4 converted to GIF for the screenshot that @physcofury posted.  GIF is required for the screenshot to appear in the screenshots tab of the docs.
+
+![POS_System_Screenshot](https://user-images.githubusercontent.com/46163555/192105397-9e4de289-d4ba-4f12-aa18-9af49fdfd33d.gif)
+
+
+------------------------------
 [@physcofury](https://github.com/physcofury) 2022-09-22T13:03:58Z
 
 
