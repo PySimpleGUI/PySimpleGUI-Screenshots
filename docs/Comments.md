@@ -1,3 +1,12 @@
+[@physcofury](https://github.com/physcofury) 2022-09-25T10:00:25Z
+
+> Here is the MP4 converted to GIF for the screenshot that @physcofury posted. GIF is required for the screenshot to appear in the screenshots tab of the docs.
+> 
+> ![POS_System_Screenshot](https://user-images.githubusercontent.com/46163555/192105397-9e4de289-d4ba-4f12-aa18-9af49fdfd33d.gif) [ ![POS_System_Screenshot](https://user-images.githubusercontent.com/46163555/192105397-9e4de289-d4ba-4f12-aa18-9af49fdfd33d.gif) ](https://user-images.githubusercontent.com/46163555/192105397-9e4de289-d4ba-4f12-aa18-9af49fdfd33d.gif) [ ](https://user-images.githubusercontent.com/46163555/192105397-9e4de289-d4ba-4f12-aa18-9af49fdfd33d.gif)
+
+Ah thankyou didn't think i could make a gif, i'll be sure to post a gif of my POS when it's finished
+
+------------------------------
 [@PySimpleGUI](https://github.com/PySimpleGUI) 2022-09-24T15:34:14Z
 
 @physcofury why didn't you pick something a little more ambitious for your first project?  A multi-window point of sale system with an onscreen keyboard?  That's really incredible actually!  
