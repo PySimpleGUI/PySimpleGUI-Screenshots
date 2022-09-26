@@ -1,5 +1,9 @@
 # PySimpleGUI Screenshots
 
-This repo has screenshots of the PySimpleGUI Demo Programs. It will soon also have user screenshots!
+This repo has screenshots of the PySimpleGUI Demo Program as well as user submitted screenshots.
 
-You can view these images in the PySimpleGUI documentation located at [PySimpleGUI.org](https://www.PySimpleGUI.org).  The tab named "Screenshots demos" has the Demo Programs screenshots and the direct link to this tab is [https://www.PySimpleGUI.org/en/latest/screenshots_demos](https://www.PySimpleGUI.org/en/latest/screenshots_demos)
+There is a standalone ReadTheDocs site for these temporarily.  The main PySimpleGUI documentation is being updated to pull these screenshots in.
+
+[The Screenshots Document](https://pysimplegui-screenshots.readthedocs.io/en/latest/) has 3 tabs where you can view these screenshots.
+
+
