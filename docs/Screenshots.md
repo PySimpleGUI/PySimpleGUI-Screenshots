@@ -1,3 +1,8 @@
+[@definite-d](https://github.com/definite-d) 2022-10-01T16:38:20Z
+
+![Modern UI](https://user-images.githubusercontent.com/38317208/193419070-80f98ae5-943b-49da-ba65-5fc0317613e5.gif)
+
+-----------
 [@physcofury](https://github.com/physcofury) 2022-09-25T10:00:25Z
 
 ![POS_System_Screenshot](https://user-images.githubusercontent.com/46163555/192105397-9e4de289-d4ba-4f12-aa18-9af49fdfd33d.gif)
