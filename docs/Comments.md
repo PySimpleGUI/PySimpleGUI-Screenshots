@@ -1,3 +1,16 @@
+[@definite-d](https://github.com/definite-d) 2022-10-01T16:38:20Z
+
+Hello @PySimpleGUI.
+
+I'd like to show you my latest attempt at a modern GUI, built with PySimpleGUI, featuring a custom modern HTML-style input element, [rounded buttons](https://github.com/PySimpleGUI/PySimpleGUI/issues/3412), a [custom theme](https://github.com/definite-d/themera) and [real-time theme changing](https://github.com/definite-d/psg_reskinner/).
+
+![Modern UI](https://user-images.githubusercontent.com/38317208/193419070-80f98ae5-943b-49da-ba65-5fc0317613e5.gif)
+
+I can bet people would fail to realize that that's a PSG program without prior context.
+
+You were right when you said in the docs that the 'simple' in PySimpleGUI doesn't mean one can't make fantastic things with it.
+
+------------------------------
 [physcofury](https://github.com/physcofury) 2022-09-25T10:00:25Z
 > Here is the MP4 converted to GIF for the screenshot that @physcofury posted. GIF is required for the screenshot to appear in the screenshots tab of the docs.
 > 
