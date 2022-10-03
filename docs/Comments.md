@@ -1,3 +1,10 @@
+[@kcl1s](https://github.com/kcl1s) 2022-10-03T19:01:04Z
+
+This is my latest project using PySimpleGUI. I just got a laser engraver and needed a way to convert .jpg clipart to .png and remove the backgrounds without dealing with a graphics program or online converter. I had luck creating a 12 line "proof of concept" script so I decided to use my favorite GUI to make if easy to use. I can remove white or black backgrounds with a slider to give some tolerance.  I did a video of the process https://youtu.be/MZuxuoPsHcw I then found a way to do the conversion 100+ times faster with Numpy instead of Python loops so I documented that in this video https://youtu.be/WXISlAzddFA I also put the code on gitHub https://github.com/kcl1s/python/blob/master/TBGpsgNP.py
+![tbgConvert](https://user-images.githubusercontent.com/13920899/193654935-675fcfca-1dc7-462e-b8ee-2a7a760b6c7f.gif)
+
+
+------------------------------
 [@infinitepower18](https://github.com/infinitepower18) 2022-10-03T12:02:17Z
 
 That reskinner may be useful when paired with [darkdetect](https://github.com/albertosottile/darkdetect) :)
