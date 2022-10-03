@@ -1,3 +1,8 @@
+[@infinitepower18](https://github.com/infinitepower18) 2022-10-03T12:02:17Z
+
+That reskinner may be useful when paired with [darkdetect](https://github.com/albertosottile/darkdetect) :)
+
+------------------------------
 [@definite-d](https://github.com/definite-d) 2022-10-01T16:38:20Z
 
 Hello @PySimpleGUI.
