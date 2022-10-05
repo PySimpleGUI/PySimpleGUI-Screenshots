@@ -1,3 +1,16 @@
+[@PySimpleGUI](https://github.com/PySimpleGUI) 2022-10-05T09:10:12Z
+
+Hi all!  Really sorry for the delay in responding... there is so much to be excited about.
+
+-------------
+
+@definite-d LOVE IT!  Haven't forgotten about your open issues and please be sure and look at the change made to menus recently so your theme changing picks up that change.  You have nailed the point about "simple "not being limiting.  In the docs I'm working on, I'm describing this "emergent" effect that simplifying has triggered.  These user screenshots are an important part of explaining the point.  Making operations simple, approachable, and accessible has enabled users to customize applications in ways far beyond what's normally accomplished in Python GUIs.  **_The Simple Syntax has resulted in Complex Interfaces._**
+
+------------
+
+@kcl1s  You continue to crank our some incredible projects!  Thank you for posting them here!  They're getting seen by quite a lot of people that use the documentation.  People love seeing pictures and what a beautiful one you posted.  Simple but beautiful just the same.  And **what** it does is incredible!
+
+------------------------------
 [@kcl1s](https://github.com/kcl1s) 2022-10-03T19:01:04Z
 
 This is my latest project using PySimpleGUI. I just got a laser engraver and needed a way to convert .jpg clipart to .png and remove the backgrounds without dealing with a graphics program or online converter. I had luck creating a 12 line "proof of concept" script so I decided to use my favorite GUI to make if easy to use. I can remove white or black backgrounds with a slider to give some tolerance.  I did a video of the process https://youtu.be/MZuxuoPsHcw I then found a way to do the conversion 100+ times faster with Numpy instead of Python loops so I documented that in this video https://youtu.be/WXISlAzddFA I also put the code on gitHub https://github.com/kcl1s/python/blob/master/TBGpsgNP.py
