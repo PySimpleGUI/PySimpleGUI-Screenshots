@@ -1,3 +1,8 @@
+[@PySimpleGUI](https://github.com/PySimpleGUI) 2022-10-06T20:52:05Z
+
+@kcl1s ... Never doubted for a moment you appreciate what we're doing.  I didn't do a good job of communicating that I could use a hand in flagging when there are problems, via GitHub issues, and also in finding out the root cause.  That's what we're after ultimately... a fix to the problem.
+
+------------------------------
 [@kcl1s](https://github.com/kcl1s) 2022-10-06T20:18:51Z
 
 @PySimpleGUI. I appreciate all you do with this project as attested by my Paypal contribution a couple weeks ago. 
