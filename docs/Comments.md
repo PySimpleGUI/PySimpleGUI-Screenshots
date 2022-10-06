@@ -1,3 +1,12 @@
+[@kcl1s](https://github.com/kcl1s) 2022-10-06T13:16:36Z
+
+I am a hobbyist learning Python and have been looking at Beautiful Soup and web scraping. Since the search feature is down again for the psg docs (hint hint!) I thought it would be a good bs4 exercise to try scraping all the internal links on pysimplegui.org and make a crude search engine. Not really a great psg project but I thought I would share some shots. Code can be found here https://github.com/kcl1s/python/blob/master/psgSearch.py
+
+![psgSearch](https://user-images.githubusercontent.com/13920899/194321488-cc746b51-6761-4ac4-b290-bee25d0cc334.jpg)
+![psgSearchWeb](https://user-images.githubusercontent.com/13920899/194321542-a43b3eee-333b-4d8b-92da-9d9c27d52701.jpg)
+
+
+------------------------------
 [@PySimpleGUI](https://github.com/PySimpleGUI) 2022-10-05T09:10:12Z
 
 Hi all!  Really sorry for the delay in responding... there is so much to be excited about.
