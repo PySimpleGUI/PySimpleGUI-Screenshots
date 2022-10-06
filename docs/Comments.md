@@ -1,3 +1,22 @@
+[@PySimpleGUI](https://github.com/PySimpleGUI) 2022-10-06T17:12:16Z
+
+Hiya @kcl1s I'm as frustrated with the current documentation situation as any/all other users.  
+![image](https://user-images.githubusercontent.com/46163555/194376055-4b8b10c8-3aa1-4b99-afc7-25bab423529a.png)
+
+The search bug that happens in Chrome that evidently is back is particularly frustrating.  The less time I spend on the current ReadTheDocs site, the better overall.  These sceenshots in this issue have been added as a couple of tabs, but I'm otherwise putting all of my efforts into the next-generation docs.
+
+It's taking me a very long time to get the work completed, and released, but rest assured that new documentation is coming.  
+![image](https://user-images.githubusercontent.com/46163555/194375490-706719db-1be2-4920-b95e-3510730eae5a.png)
+
+It's the largest and most costly effort in the project's history.  A _few_ examples, in addition to a complete overhaul of the format - the other 3 ports have call reference documentation/docstrings the eCookbook is integrated into the documentation as a tab, and significantly more.  The search feature is working perfectly.  You'll be happy with the results...  this I'm sure. 
+
+Hint - an Issue about the search is going to be of more help to the project than a hint in the screenshots area.
+
+It's great to see more of your work!  ![image](https://user-images.githubusercontent.com/46163555/194376336-25908001-2db4-4977-85e2-1b88ed681318.png)  Keep building!!
+
+
+
+------------------------------
 [@kcl1s](https://github.com/kcl1s) 2022-10-06T13:16:36Z
 
 I am a hobbyist learning Python and have been looking at Beautiful Soup and web scraping. Since the search feature is down again for the psg docs (hint hint!) I thought it would be a good bs4 exercise to try scraping all the internal links on pysimplegui.org and make a crude search engine. Not really a great psg project but I thought I would share some shots. Code can be found here https://github.com/kcl1s/python/blob/master/psgSearch.py
