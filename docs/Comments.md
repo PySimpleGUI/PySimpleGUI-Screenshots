@@ -1,3 +1,10 @@
+[@kcl1s](https://github.com/kcl1s) 2022-10-06T20:18:51Z
+
+@PySimpleGUI. I appreciate all you do with this project as attested by my Paypal contribution a couple weeks ago. 
+Regards
+Keith Lohmeyer 
+
+------------------------------
 [@PySimpleGUI](https://github.com/PySimpleGUI) 2022-10-06T17:12:16Z
 
 Hiya @kcl1s I'm as frustrated with the current documentation situation as any/all other users.  
